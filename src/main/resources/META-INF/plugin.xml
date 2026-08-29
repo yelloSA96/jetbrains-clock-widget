@@ -1,11 +1,11 @@
 <idea-plugin>
-    <id>com.example.jbclockwidget</id>
+    <id>me.thomassuebwicha.jbclockwidget</id>
     <name>Clock Widget</name>
     <vendor>Thomas Suebwicha</vendor>
     <depends>com.intellij.modules.platform</depends>
     <extensions defaultExtensionNs="com.intellij">
         <statusBarWidgetFactory
-            id="com.example.jbclockwidget.ClockWidgetFactory"
-            implementation="com.example.jbclockwidget.ClockWidgetFactory"/>
+            id="me.thomassuebwicha.jbclockwidget.ClockWidgetFactory"
+            implementation="me.thomassuebwicha.jbclockwidget.ClockWidgetFactory"/>
     </extensions>
 </idea-plugin>

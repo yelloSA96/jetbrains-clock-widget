@@ -1,4 +1,4 @@
-package com.example.jbclockwidget
+package me.thomassuebwicha.jbclockwidget
 
 import com.intellij.openapi.wm.StatusBar
 import com.intellij.openapi.wm.StatusBarWidget
